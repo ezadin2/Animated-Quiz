@@ -19,8 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 
 Here are some screenshots of the Quiz App:
 
-### Home Screen
-![Home Screen](images/ezz.jpg)
+### Home Screen  
+![Home Screen](images/ezz5.jpg)
 
 ### Quiz Screen
 ![Quiz Screen](images/ezz2.jpg)
@@ -32,4 +32,4 @@ Here are some screenshots of the Quiz App:
 ![Result Screen](images/ezz4.jpg)
 
 ### Result Screen 3
-![Result Screen](images/ezz5.jpg)
+![Result Screen](images/ezz.jpg)
